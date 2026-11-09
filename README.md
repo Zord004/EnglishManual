@@ -9,9 +9,3 @@ Il materiale è distribuito a titolo interamente gratuito. **Qualsiasi utilizzo 
 
 ## 📖 Come leggere gli appunti
 Non è necessario conoscere LaTeX per leggere gli appunti. Puoi scaricare la versione già pronta e formattata cliccando sul file `main.pdf` nell'elenco dei file qui sopra e cliccando sull'icona di download (Download raw file).
-
-## 🛠️ Per chi vuole compilare il codice sorgente
-Se desideri visualizzare o compilare autonomamente il codice sorgente:
-1. Clona questo repository sul tuo computer:
-   ```bash
-   git clone [https://github.com/tuonome/appunti-inglese.git](https://github.com/tuonome/appunti-inglese.git)
