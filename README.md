@@ -3,9 +3,10 @@
 Questo repository contiene il codice sorgente in LaTeX e il documento finale (PDF) dei miei appunti di Inglese.
 
 ## ⚠️ Avvertenze e Condizioni d'Uso (Disclaimer)
-Il presente documento è stato redatto a scopo puramente didattico e divulgativo. Non costituisce una pubblicazione ufficiale e non ha in alcun modo la pretesa di sostituire i manuali di testo certificati o la bibliografia accademica di riferimento. 
+La presente documentazione è redatta a scopo esclusivamente didattico e divulgativo. Essa non costituisce una pubblicazione accreditata e non intende in alcun modo sostituire la letteratura accademica validata o la manualistica ufficiale di riferimento.
 
-Il materiale è distribuito a titolo interamente gratuito. **Qualsiasi utilizzo a fini commerciali o di lucro è severamente vietato.**
+L'intero materiale è rilasciato a titolo gratuito. **È severamente interdetto qualsiasi impiego, riproduzione o distribuzione del documento per fini commerciali o di lucro**.
 
-## 📖 Come leggere gli appunti
-Non è necessario conoscere LaTeX per leggere gli appunti. Puoi scaricare la versione già pronta e formattata cliccando sul file `main.pdf` nell'elenco dei file qui sopra e cliccando sull'icona di download (Download raw file).
+## Come leggere gli appunti
+Per la consultazione degli appunti non è richiesta alcuna competenza di markup LaTeX né la configurazione di un compilatore locale.
+La build precompilata è immediatamente accessibile: è sufficiente selezionare il file *main.pdf* dalla root directory del repository e procedere al download tramite l'apposita funzione nativa (icona Download raw file).
